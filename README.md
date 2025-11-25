@@ -4,18 +4,18 @@ Prebuilt distribution of the **Sunbreak React SDK** for private use.
 
 ## Installation
 
-Add the tarball directly to your project dependencies. Replace the version tag (`v0.0.7`) with the desired release version.
+Add the tarball directly to your project dependencies. Replace the version tag (`v0.0.8`) with the desired release version.
 
 ```bash
-npm i https://github.com/thedigitalfinancecompany/sunbreak-react-build/releases/download/v0.0.7/sunbreak-react-0.0.7.tgz
+npm i https://github.com/thedigitalfinancecompany/sunbreak-react-build/releases/download/v0.0.8/sunbreak-react-0.0.8.tgz
 ```
 
 Or, if using Yarn or pnpm:
 
 ```bash
-yarn add https://github.com/thedigitalfinancecompany/sunbreak-react-build/releases/download/v0.0.7/sunbreak-react-0.0.7.tgz
+yarn add https://github.com/thedigitalfinancecompany/sunbreak-react-build/releases/download/v0.0.8/sunbreak-react-0.0.8.tgz
 # or
-pnpm add https://github.com/thedigitalfinancecompany/sunbreak-react-build/releases/download/v0.0.7/sunbreak-react-0.0.7.tgz
+pnpm add https://github.com/thedigitalfinancecompany/sunbreak-react-build/releases/download/v0.0.8/sunbreak-react-0.0.8.tgz
 ```
 
 You can specify any available release version (e.g., `v0.0.2`, `v0.0.3`) to install a particular build.
